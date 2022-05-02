@@ -22,7 +22,7 @@ Previously, if you had no content, (in this case link), within a test file, the 
 
 ![Image](sc5.png)
 
-[My Test}(https://github.com/richarddau/markdown-parser/commit/af2c7131d21dfc610675eaef8b9c38f26e49af08)
+[My Test](https://github.com/richarddau/markdown-parser/commit/af2c7131d21dfc610675eaef8b9c38f26e49af08)
 
 ![Image](sc6.png)
 
